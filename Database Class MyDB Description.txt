@@ -1,0 +1,4 @@
+This database contains data on ski resorts owned by a huge monopoly in the business and the information
+collected that relates to the resorts. The information collected are the resorts, ski runs at the
+resorts, food vendors at the resorts, skiers that have skied in the current year, and season pass
+members. The waiver attribute in the skier-resort relation is a Boolean value.
